@@ -14,7 +14,7 @@ Labor transaction data, such as time to complete an inspection, the proportion o
 
 #### Results
 ##### Bad Actor List
-The average inspection time is 39 minutes, during that time the inspector must answer 142 questions about the apartment using a handheld device. The average satisfactory rate for inspectors who conduct over 100 inspections a year is 93%. The Bad Actor list includes inspectors with a low average inspection time and high satisfactory rates.
+The average inspection time is 39 minutes, during that time the inspector must answer 142 questions about the condition of apartment using a handheld device. The average satisfactory rate for inspectors who conduct over 100 inspections a year is 93%. The Bad Actor list includes inspectors with a low average inspection time and high satisfactory rates.
 
 
 
