@@ -21,6 +21,16 @@ A bad actor is defined as an inspection time average of 20 minutes or less and a
 ![Bad Actor List](https://github.com/dariusmehri/NYCHA-Apartment-Inspections-Labor-Analytics/assets/11237613/2937e042-2264-498e-be38-44f56af4ecc2)
 
 
+#### Daily Work Time Analytics
+
+A visualization of the daily work was also produced. As can be seen, the average number of minutes per inspection is low for this inspector:
+
+![Work Time](https://github.com/dariusmehri/NYCHA-Apartment-Inspections-Labor-Analytics/assets/11237613/82babcf8-8c92-498b-9db7-3268de2a32e3)
+
+
+
+
+
 
 
 
