@@ -16,7 +16,8 @@ Labor transaction data, such as time to complete an inspection, the proportion o
 ##### Bad Actor List
 The average inspection time is 39 minutes, during that time the inspector must answer 142 questions about the condition of apartment using a handheld device. The average satisfactory rate for inspectors who conduct over 100 inspections a year is 93%. The Bad Actor list includes inspectors with a low average inspection time and high satisfactory rates. A bad actor is defined as an inspection time average of 20 minutes or less and a satisfactory rate of 97 percent or higher.
 
-![Bad Actor List](https://github.com/dariusmehri/NYCHA-Apartment-Inspections-Labor-Analytics/assets/11237613/be00d311-df64-4449-98cb-5cb375cefc7c)
+![Bad Actor List](https://github.com/dariusmehri/NYCHA-Apartment-Inspections-Labor-Analytics/assets/11237613/2937e042-2264-498e-be38-44f56af4ecc2)
+
 
 
 
