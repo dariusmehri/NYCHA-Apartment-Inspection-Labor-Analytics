@@ -27,6 +27,13 @@ A visualization of the daily work was also produced. For this inspector, the dai
 
 ![Work Time](https://github.com/dariusmehri/NYCHA-Apartment-Inspections-Labor-Analytics/assets/11237613/82babcf8-8c92-498b-9db7-3268de2a32e3)
 
+#### Inspector Drill Down
+
+A visualization was also created to drill down into the daily activity of the inspectors.
+
+![Employee Drill Down](https://github.com/dariusmehri/NYCHA-Apartment-Inspections-Labor-Analytics/assets/11237613/d720e5eb-f7ab-43e5-beb3-c185eb829724)
+
+
 
 
 
