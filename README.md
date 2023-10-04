@@ -10,4 +10,7 @@ Labor transaction data, such as time to complete an inspection, the proportion o
 1. A direct connect to the NYCHA database to pull the data was established.
 2. Data was cleaned, merged and quality checked.
 3. Visualizations were create in Tableau to explore patterns in bad behavior.
+4. Bad actor list is created using key process measures.
+
+#### Results
 
