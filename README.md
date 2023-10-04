@@ -9,14 +9,14 @@ Labor transaction data, such as time to complete an inspection, the proportion o
 #### Data and Methods
 1. A direct connect to the NYCHA database to pull the data was established.
 2. Data is cleaned, merged and quality checked in Python.
-3. Visualizations were create in Tableau to explore patterns in bad behavior.
-4. Bad actor list is created using key performance measures.
+3. Visualizations were created in Tableau to explore patterns in bad behavior.
+4. A bad actor list is created using key performance measures.
 
 #### Results
 ##### Bad Actor List
-The average inspection time is 39 minutes, during that time the inspector must answer 142 questions about the condition of apartment using a handheld device. The average satisfactory rate for inspectors who conduct over 100 inspections a year is 93%. The Bad Actor list includes inspectors with a low average inspection time and high satisfactory rates. 
+The average inspection time is 39 minutes, during that time the inspector must answer 142 questions about the condition of apartment using a handheld device. The average satisfactory rate for an apartment that is inspected is 93%. The Bad Actor list includes inspectors with a low average inspection time and high satisfactory rates. 
 
-A bad actor is defined as an inspection time average of 20 minutes or less and a satisfactory rate of 97 percent or higher.
+A bad actor is defined as having an average inspection time of 20 minutes or less and a satisfactory rate of 97 percent or higher.
 
 ![Bad Actor List](https://github.com/dariusmehri/NYCHA-Apartment-Inspections-Labor-Analytics/assets/11237613/2937e042-2264-498e-be38-44f56af4ecc2)
 
